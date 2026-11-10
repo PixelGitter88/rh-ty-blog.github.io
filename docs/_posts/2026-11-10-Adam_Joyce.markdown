@@ -21,15 +21,7 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today was a way to settle in, and as such, we didn't do a whole lot. It was a very early start, as I got up at 6:25am. I had breakfast before heading in to the bus stop near MacDonagh Junction, where I took the 600 Green Bus to SETU and the W1 City Bus to Ballynaneashagh. After we played two truths and a lie together, we had a brief health and safety talk before going on a tour around the office. Afterwards, we had a snack before playing a Mariokart 8 Deluxe tournament, which Aoife run, then we relaxed and did our own thing for an hour before lunch. I had a chat with some people before heading back to the conference room, where we learned about teamwork building and the agile framework, in particular about Kanban charts, and applied this to constructing Mr. Potato Head costumes based on either a Wizard, a Villain, or a Hero. It allowed us to work together and get creative. I then took the bus home with my mam, at which stage I was absolutely exhausted.
 
 
 ---
